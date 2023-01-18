@@ -14,6 +14,6 @@ Messages are checked for character length, ensuring empty posts and posts more t
 
 # Starting the Application
 
-First run `npm install` to get the necessary dependencies for this project.
-Then, run `npm start` to start the express server.
+First run `npm install` to get the necessary dependencies for this project. <br>
+Then, run `npm start` to start the express server. <br>
 Navigate to `http://localhost:3000` to then test the application. Opening 2 of these tabs will allow you to observe sockets at work.
