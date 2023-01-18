@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+
+* {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+#message-input {
+  width: 30%;
+  border-radius: 10px;
+  border: 2px solid black;
+  height: 30px;
+}
+
+#post-button {
+  border: none;
+  border-radius: 10px;
+  margin-left: 20px;
+  padding: 8px 15px;
+  font-weight: bold;
+}
+
+#messages {
+  display: grid;
+  grid-template-columns: 50%;
+  justify-content: center;
+}
+
+.message {
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 20px;
+}
